@@ -15,7 +15,7 @@ Puede poner eso en cualquier cadena con {types_of_people}.
 
 También ve que tengo que usar un tipo especial de cadena para "formatear"; se llama **"f-string"** y tiene este aspecto:
 
-### **f”cuaquier cosa aquí {avariable}”**
+### **f”cuaquier cosa aquí {variable}”**
 
 Python también tiene otro tipo de formato usando la sintaxis **.format ()** que se usa a veces cuando se quiere aplicar un
 formato a una cadena ya creada, como en un bucle (Loop). 
@@ -32,7 +32,8 @@ formato a una cadena ya creada, como en un bucle (Loop).
 
 #Definir las variables binary y do_not
 
-```binary = "binary"
+```
+binary = "binary"
 do_not = "don't"
 ```
 
@@ -40,7 +41,6 @@ do_not = "don't"
 
 ```
 y = f"Those who know {binary} and those who {do_not}."
-
 ```
 
 #Se imprimirá en la terminal lo que indican los strings x y y
@@ -58,6 +58,7 @@ print(f"I also said: '{y}'")
 ```
 
 #Se define la variable hilarious como Falsa
+
 ```
 hilarious = False
 ```
@@ -80,6 +81,7 @@ e = "a string with a right side."
 ```
 
 #Se realiza un 5to string y se suman, esto hace que obtengamos un string más largo 
+
 ```
 print(w + e)
 ```
