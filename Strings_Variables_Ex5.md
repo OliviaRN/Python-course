@@ -1,9 +1,11 @@
 # **More variables and Printing **
 
-Strings (Cadenas)
-Cada vez que pones "(comillas dobles) " alrededor de un texto, has estado haciendo una cadena
 
-Una cadena es cómo haces algo que tu programa podría darle a un humano. Imprime cadenas, guarda cadenas en archivos, envía cadenas a servidores web y muchas otras cosas.
+**Strings (Cadenas)**
+
+Cada vez que pones "(comillas dobles) " alrededor de un texto, has estado haciendo una **cadena**
+
+Una **cadena** es cómo haces algo que tu programa podría darle a un humano. Imprime cadenas, guarda cadenas en archivos, envía cadenas a servidores web y muchas otras cosas.
 
 También se pueden incrustar variables dentro de una cadena utilizando una secuencia especial {} y luego colocando la variable que desee dentro de los caracteres {}.
 
