@@ -3,6 +3,9 @@
 
 *Un libro que nos recomendó Norberto al principio fue este*  [Begining Python] https://www.dropbox.com/s/rr9lvi4hfif58fz/Beginning-python-from-novice-to-professional-2Ed.pdf?dl=0
 
+## **Para correr un script de python hecho en visual code en la terminal, coloco:**
+
+``` python3 <nombredelarchivo.py> ```
 
 # More variables and Printing
 
@@ -21,7 +24,7 @@ Esta pequeña **f** antes de "(comillas dobles) y los caracteres {} le dicen a P
 
 *"Hey, esta cadena necesita ser formateada. Ponga estas variables allí "*.
 
-Ejemplo:
+Ejemplo *ex5.py* :
 
 #Defino las variables y luego las imprimo:
 
@@ -49,9 +52,7 @@ total = my_name + my_height + my_weight
 print(f"If I add {my_age}, {my_height} and {my_weight} I get total")
 
 
-## **Para correr en la terminal elejemplo anterior, coloco:**
 
-``` python3 <nombredelarchivo.py> ```
 
 
 
