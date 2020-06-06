@@ -1,6 +1,6 @@
 # More Printing
 
-En este ejercicio estoy usando algo llamado "función" para convertir la variable del formateador en otras cadenas. Cuando me veas escribir formatter.format (...) le digo a python que haga lo siguiente:
+En este ejercicio estoy usando algo llamado **"función"** para convertir la variable del formateador en otras cadenas. Cuando me veas escribir **formatter.format (...)** le digo a python que haga lo siguiente:
 
 1. Tome la cadena de formato definida en línea 1.
 
