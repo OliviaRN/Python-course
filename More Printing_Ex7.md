@@ -1,16 +1,7 @@
 # More Printing
 
-En este ejercicio estoy usando algo llamado **"función"** para convertir la variable del formateador en otras cadenas. Cuando me veas escribir **formatter.format (...)** le digo a python que haga lo siguiente:
 
-1. Tome la cadena de formato definida en línea 1.
-
-2. Llame a su función de formato, que es similar a decirle que haga un comando de línea de comando llamado formato.
-
-3. Pasar por los argumentos del formulario, que coinciden con los cuatro {} en la variable del formateador. Esto es como pasar argumentos al formato del comando de línea de comando.
-
-4. El resultado de llamar a la información del formato es una cadena de caracteres que tiene {} reemplazada por las cuatro variables. Esto es lo que la impresión ahora está imprimiendo.
-
-*Imprime Mary had a little lamb*
+Imprime Mary had a little lamb
 
 ```
 print("Mary had a little lamb.")
