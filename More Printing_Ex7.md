@@ -1,19 +1,19 @@
 # More Printing
 
 
-# Imprime Mary had a little lamb
+*Imprime Mary had a little lamb*
 
 print("Mary had a little lamb.")
 
-# *Se hace un string y se utiliza la sintaxis .format() para este string.*
+*Se hace un string y se utiliza la sintaxis .format() para este string.*
 
-# Imprimirá su lana es blanca como la nieve. {} las usamos para referirnos y llenar el espacion con snow. Aquí *snow* es un string NO una variable
+Imprimirá su lana es blanca como la nieve. {} las usamos para referirnos y llenar el espacion con snow. Aquí *snow* es un string NO una variable
 
 print("Its fleece was white as {}.".format('snow'))
 print("And everywhere that Mary went.")
 print("." * 10) # what'd that do?  ##Coloca 10 puntos. PARA HACERLO-Realiza la multiplicación de 1 punto por 10
 
-# DE LAS PALABRAS CHEESE BURGER Se definen cada una de las letras como variables end1= C, end2=H, ....end12 = r
+*DE LAS PALABRAS CHEESE BURGER Se definen cada una de las letras como variables end1= C, end2=H, ....end12 = r*
 
 end1 = "C"
 end2 = "h"
