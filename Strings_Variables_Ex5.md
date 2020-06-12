@@ -11,9 +11,9 @@ También se pueden incrustar variables dentro de una cadena utilizando una secue
 
 También debo comenzar la cadena con la letra f para "formato", como en **f "Hola {somevar}"**.
 
-Esta pequeña `f` antes de "(comillas dobles) y los caracteres {} le dicen a Python:
+Esta pequeña `f` antes de `"(comillas dobles)` y los caracteres `{}` le dicen a Python:
 
-*"Hey, esta cadena necesita ser formateada. Ponga estas variables allí "*.
+**"Hey, esta cadena necesita ser formateada. Ponga estas variables allí "**.
 
 Ejemplo **ex5.py** :
 
