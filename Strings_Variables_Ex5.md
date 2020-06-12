@@ -17,6 +17,8 @@ Esta pequeña `f` antes de `"(comillas dobles)` y los caracteres `{}` le dicen a
 
 Ejemplo **ex5.py** :
 
+```
+
 #Defino las variables y luego las imprimo:
 
 my_name = 'Zed A. Shaw'
@@ -40,3 +42,5 @@ this line is tricky, try to get it exactly right
 total = my_name + my_height + my_weight
 
 print(f"If I add {my_age}, {my_height} and {my_weight} I get total")
+
+```
