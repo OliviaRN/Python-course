@@ -8,15 +8,16 @@ Python sabe que quieres que algo sea una cadena cuando pones "(comillas dobles) 
 
 Las cadenas pueden contener cualquier cantidad de variables que estén en su script Python.
 
-Recuerda que una **variable** es cualquier línea de código donde establece un nombre = (igual) a un valor. 
+Recuerda que una **variable** es cualquier línea de código donde establece un **Nombre = (igual) a un valor**. 
 
-En el código para este ejercicio, ```types_of_people = 10``` crea una variable llamada types_of_people y la establece = (igual) a 10.
+En el código para este ejercicio, ```types_of_people = 10``` crea una variable llamada `types_of_people` y la establece = (igual) a 10.
+
 Puede poner eso en cualquier cadena con {types_of_people}. 
 
-También ve que tengo que usar un tipo especial de cadena para "formatear"; se llama **"f-string"** y tiene este aspecto:
+También ve que tengo que usar un tipo especial de cadena para **"formatear"**; se llama **"f-string"** y tiene este aspecto:
 
 ```
-### **f”cuaquier cosa aquí {variable} cuaquier cosa aquí”**
+f”cuaquier cosa aquí {variable} cuaquier cosa aquí”
 
 ```
 
