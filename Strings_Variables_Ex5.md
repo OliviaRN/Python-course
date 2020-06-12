@@ -7,9 +7,9 @@ Cada vez que pones "(comillas dobles) " alrededor de un texto, has estado hacien
 
 Una **cadena** es cómo haces algo que tu programa podría darle a un humano. Imprime cadenas, guarda cadenas en archivos, envía cadenas a servidores web y muchas otras cosas.
 
-También se pueden incrustar variables dentro de una cadena utilizando una secuencia especial **{}** y luego colocando la variable que desee dentro de los caracteres {}.
+También se pueden incrustar variables dentro de una cadena utilizando una secuencia especial `**{}**` y luego colocando la variable que desee dentro de los caracteres {}.
 
-También debo comenzar la cadena con la letra f para "formato", como en **f "Hola {somevar}"**.
+También debo comenzar la cadena con la letra f para "formato", como en `**f "Hola {somevar}"**`.
 
 Esta pequeña `f` antes de `"(comillas dobles)` y los caracteres `{}` le dicen a Python:
 
