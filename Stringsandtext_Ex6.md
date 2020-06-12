@@ -15,7 +15,10 @@ Puede poner eso en cualquier cadena con {types_of_people}.
 
 También ve que tengo que usar un tipo especial de cadena para "formatear"; se llama **"f-string"** y tiene este aspecto:
 
-### **f”cuaquier cosa aquí {variable}”**
+```
+### **f”cuaquier cosa aquí {variable} cuaquier cosa aquí”**
+
+```
 
 Python también tiene otro tipo de formato usando la sintaxis **.format ()** que se usa a veces cuando se quiere aplicar un
 formato a una cadena ya creada, como en un bucle (Loop). 
