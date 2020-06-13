@@ -2,13 +2,22 @@
 
 Cada lenguaje de programación tiene algún tipo de forma de hacer números y matemáticas.
 
-• +plus
+• + plus
+
 • - minus
+
 • / slash
+
 • * asterisk
+
 • % percent
+
 • < less-than
+
 • > greater-than
+
 • <= less-than-equal
+
 • >= greater-than-equal
 
+Para saber el orden de las operaciones matemáticas checa este link 
