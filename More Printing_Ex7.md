@@ -37,7 +37,7 @@ end12 = "r"
 ### Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después**
 
 
-### CON el `end=' '` **NO** ** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
+### CON el `end=' '` **NO** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
 
 ```
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
@@ -59,7 +59,7 @@ print(end7 + end8 + end9 + end10 + end11 + end12)
 
 **¿Se pueden usar comillas simples o comillas dobles para hacer una secuencia de comandos entre ellas?**
 
-Generalmente se usarán `comillas simples` para cualquier cadena corta como 'a' o 'nieve'.
+Generalmente se usarán `comillas simples` `' '` para cualquier cadena corta como `'a'` o `'nieve'`.
 
 **LO QUE SE VE EN LA TERMINAL**
 
