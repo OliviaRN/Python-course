@@ -1,4 +1,4 @@
-**Variables and Names**
+# **Variables and Names**
 
 Se puede imprimir cosas con print y puedes hacer matemáticas.
 
