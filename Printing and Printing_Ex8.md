@@ -5,7 +5,7 @@ Ahora veremos cómo hacer un formateo más complicado de una cadena.
 
 En este ejercicio estoy usando algo llamado **"función"** para convertir la variable del formateador en otras cadenas. Cuando me veas escribir **formatter.format (...)** le digo a python que haga lo siguiente:
 
-1. TomA la cadena de formato definida en línea 1.
+1. Tomala cadena de formato definida en línea 1.
 
 2. Llama a su función de formato, que es similar a decirle que haga un comando de línea de comando llamado formato.
 
@@ -77,8 +77,13 @@ print(formatter.format(
 **LO QUE SE VE EN LA TERMINAL:**
 
 $ python3 ex8.py
+
 1234
+
 one two three four
+
 True False False True
+
 {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {}
+
 Try your Own text here Maybe a poem Or a song about fear
