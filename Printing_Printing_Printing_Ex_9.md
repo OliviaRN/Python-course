@@ -34,7 +34,7 @@ Even 4 lines if we want, or5, or6.
 " " ")
 ```
 
-###Otra opción es así, pero es más difícil de leer el código porque hace la cadena muuuuyyy larga.
+### Otra opción es así, pero es más difícil de leer el código porque hace la cadena muuuuyyy larga.
 
 ```
 print("\nThere's something going on here.\nWith the three double-quotes.\nWe'll be able to type as much as we like.\nEven 4 lines if we want, or5, or6.")
@@ -42,6 +42,7 @@ print("\nThere's something going on here.\nWith the three double-quotes.\nWe'll 
 
 **Lo que se ve en la terminal**
 
+```
 $ python3.6 ex9.py
 Here are the days:  Mon Tue Wed Thu Fri Sat Sun
 Here are the months:  Jan
@@ -56,6 +57,7 @@ There's something going on here.
 With the three double-quotes.
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5, or 6.
+```
 
 # NOTA:
 
