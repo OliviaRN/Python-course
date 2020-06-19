@@ -93,3 +93,14 @@ print(w + e)
 ## NOTA: En todas las que tenemos las variables definidas hay strings dentro de strings
 
 ## Puedo utilizar lo de comillas dobres o simples,  es un poco más de estilo del programador.
+
+**LO QUE SE VE EN LA TERMINAL:**
+
+```
+$ python3 ex6.py
+There are 10 types of people.
+Those who know binary and those who don't.
+I said: There are 10 types of people.
+I also said: 'Those who know binary and those who don't.' Isn't that joke so funny?! False
+This is the left side of...a string with a right side.
+
