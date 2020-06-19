@@ -34,10 +34,10 @@ end11 = "e"
 end12 = "r"
 ```
 
-# Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después**
+### Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después**
 
 
-# CON el `end=' '` **NO** ** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
+### CON el `end=' '` **NO** ** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
 
 ```
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
@@ -52,10 +52,10 @@ print(end7 + end8 + end9 + end10 + end11 + end12)
 ## *NOTA:*
 
 
-print(end1 + end2 + end3 + end4 + end5 + end6) ##Quitando el end = ' '  ### Este me imprimió Cheese
+`print(end1 + end2 + end3 + end4 + end5 + end6) ##Quitando el end = ' '`  ### Este me imprimió Cheese
 
 
-###Errores. NO COPIAR BIEN. TUVE TYPOS , NO CIERRO COMILLAS y parentesis.
+### Errores. NO COPIAR BIEN. TUVE TYPOS , NO CIERRO COMILLAS y parentesis.
 
 **¿Se pueden usar comillas simples o comillas dobles para hacer una secuencia de comandos entre ellas?**
 
