@@ -34,16 +34,16 @@ end11 = "e"
 end12 = "r"
 ```
 
-### Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después**
+Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después
 
 
-### CON el `end=' '` **NO** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
+CON el `end=' '` **NO** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
 
 ```
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
 ```
 
-### SIN el `end=' '` **SI** se imprime un salto de línea y el prompt me aparece en otra línea.
+SIN el `end=' '` **SI** se imprime un salto de línea y el prompt me aparece en otra línea.
 
 ```
 print(end7 + end8 + end9 + end10 + end11 + end12)
