@@ -20,9 +20,9 @@ Cada lenguaje de programación tiene algún tipo de forma de hacer números y ma
 
 • >= greater-than-equal
 
-Para saber más del orden de las operaciones matemáticas checa este link: [https://es.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations/a/order-of-operations-review]
+**Para saber más del orden de las operaciones matemáticas checa este link:** [https://es.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations/a/order-of-operations-review]
 
-Para seguir el orden de las operaciones recuerde el **PEMDAS** que es la abreviatura para `Parentheses (Paréntesis)`, `Exponents (Exponentes)` , `Multiplication-Division (Multiplicación-División)`, `Addition-Subtraction (Suma y resta)`.
+ Recuerda el **PEMDAS** que es la abreviatura para `Parentheses (Paréntesis)`, `Exponents (Exponentes)` , `Multiplication-Division (Multiplicación-División)`, `Addition-Subtraction (Suma y resta)`.
 
 Ejemplo 1 :
 
@@ -82,6 +82,55 @@ Decimos que
 
 13 **mod** 5=residuo **3**
 
+```
+Ex.3 Page 
+print ("I will now count my chickens:")
+
+print ("Hens", 25 + 30 / 6)
+
+print ("Roosters", 100 - 25 * 3 % 4)  
+
+print ("Now I will count the eggs:")
+
+#Esta linea realiza primero el 4 módulo 2 y después realiza la división 1/4 y al final hago las operaciones + - .
+print (3+2+1-5+4%2-1/4+6)
+
+print ("Is it true that 3+2<5-7?")
+
+print (3+2<5-7)
+
+print ("What is 3 + 2?", 3 + 2)
+
+print ("What is 5 - 7?", 5 - 7)
+
+print ("Oh, that's why it's False.")
+
+print ("How about some more.")
+
+print ("Is it greater?", 5 > -2)
+
+print ("Is it greater or equal?", 5 >= -2)
+
+print ("Is it less or equal?", 5 <= -2)
+
+What You Should See in the Terminal
+
+```
+$ python ex3.py
+I will now count my chickens:
+Hens 30.0
+Roosters 97
+Now I will count the eggs:
+6.75
+Is it true that 3 + 2 < 5 - 7?
+False
+What is 3 + 2? 5
+What is 5 - 7? -2
+Oh, that's why it's False.
+How about some more.
+Is it greater? True
+Is it greater or equal? True
+Is it less or equal? False
 ```
 
 
