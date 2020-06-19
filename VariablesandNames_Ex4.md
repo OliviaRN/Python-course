@@ -4,8 +4,8 @@ Se puede imprimir cosas con print y puedes hacer matemáticas.
 
 El siguiente paso es aprender sobre las **variables**.
 
-**Variable**: Es un nombre para algo, similar a cómo mi nombre "Zed" es un nombre para
-"El humano que escribió este libro".
+**Variable**: Es un nombre para algo, similar a mi nombre "Olivia" es un nombre para
+"El humano que escribió este repo".
 
 Los programadores usan estos nombres de variables para hacer que su código. Deben usar buenos nombres para las cosas o nos perderíamos cuando intentaramos leer el código nuevamente.
 
@@ -26,7 +26,7 @@ PCR_Batch = PCR1
 **Recuerda los trucos que te han enseñado hasta ahora para encontrar diferencias y enfocarte en los detalles:**
 
 1. Escriba un comentario sobre cada línea explicando lo que hace en inglés.
-2. Lea su archivo .py al revés.
+2. Lea su archivo .py al revés (De abajo hacia arriba).
 3. Lea su archivo .py en voz alta, incluso los caracteres.
 
 Ex.4.py:
