@@ -13,7 +13,12 @@ Las variables deben comenzar con un caracter (Letras) NO con números!!!
 
 **INCORRECTO**  `1 = 'ZedShaw'`
 
+# NOTA
+
 **=** `(es igual a)` y su propósito es dar datos  (números, cadenas, etc.) o nombres (cars, cars_driven, pasajeros, etc).
+
+**==** `(doble igual)` prueba si dos cosas tienen el mismo valor.
+
 
 Debe agregar espacio alrededor de operadores como este para que sea más fácil de leer.
 
@@ -33,7 +38,7 @@ PCR_Batch = PCR1
 2. Lea su archivo .py al revés (De abajo hacia arriba).
 3. Lea su archivo .py en voz alta, incluso los caracteres.
 
-Ex.4.py:
+# Ex.4.py:
 
 ```
 cars = 100
