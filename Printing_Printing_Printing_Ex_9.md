@@ -14,7 +14,7 @@ Here's some new strange stuff, remember type it exactly.
 
 ```
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"  ##La (\n) pone cada mes en una nueva línea
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"  ##La (\n) pone cada mes en una nueva línea
 ```
 
 #Imprimimos las variables anteponiendo una como para separar cada día y cada mes
