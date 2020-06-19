@@ -14,6 +14,8 @@ En este ejercicio estoy usando el  **llamado de una función"** para convertir l
 4. El resultado de llamar a la información del formato es una nueva cadena de caracteres que tiene las `{}` reemplazadas por las cuatro variables como 1,2,3,4 o TRUE,FALSE, TRUE,FALSE y esto es lo que `print` ahora está imprimiendo.
 
 
+# Ex. 7.py
+
 #Se define la variable `formatter` con 4 argumentos
 
 ```
@@ -73,23 +75,20 @@ print(formatter.format(
      ))
 ```
 
-##NOTA: 
+## NOTA: 
 
-**¿Por qué tengo que ingresar citas alrededor de "uno" pero no alrededor de Verdadero o Falso?**
+**¿Por qué tengo que ingresar `dobles comillas` alrededor de "uno" pero no alrededor de Verdadero o Falso?**
 
-Python reconoce True y False como palabras clave que representan el concepto de `verdadero`y `falso`. Si se pone comillas alrededor de ellas, se convierten en cadenas y NO funcionarán.
+Python reconoce `True` y `False` como palabras clave que representan el concepto de `verdadero`y `falso`. Si se pone comillas alrededor de ellas, se convierten en cadenas y NO funcionarán.
 
 
 **LO QUE SE VE EN LA TERMINAL:**
 
+```
 $ python3 ex8.py
-
 1234
-
 one two three four
-
 True False False True
-
 {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {}
-
 Try your Own text here Maybe a poem Or a song about fear
+```
