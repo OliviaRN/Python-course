@@ -14,7 +14,7 @@ Imprimirá su lana es blanca como la nieve. {} las usamos para referirnos y llen
 ```
 print("Its fleece was white as {}.".format('snow'))
 print("And everywhere that Mary went.")
-print("." * 10) # what'd that do?  ##Coloca 10 puntos. PARA HACERLO-Realiza la multiplicación de 1 punto por 10
+print("." * 10) # what'd that do? ##Coloca 10 puntos.- Realiza la multiplicación de 1 punto por 10
 ```
 
 *DE LAS PALABRAS CHEESE BURGER Se definen cada una de las letras como variables end1= C, end2=H, ....end12 = r*
@@ -34,15 +34,16 @@ end11 = "e"
 end12 = "r"
 ```
 
-### watch `end = ' ' ` at the end. try removing it to see what happens
+# Observa el `end = ' ' ` del final. OBSERVA qué pasa si lo colocas y después**
 
-## Con el `end=' '` **NO** **se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt**
+
+# CON el `end=' '` **NO** ** se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt
 
 ```
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
 ```
 
-### Sin el end=' ' SI se imprime un salto de línea y el prompt me aparece en otra línea.
+### SIN el `end=' '` **SI** se imprime un salto de línea y el prompt me aparece en otra línea.
 
 ```
 print(end7 + end8 + end9 + end10 + end11 + end12)
