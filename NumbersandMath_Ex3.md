@@ -60,16 +60,20 @@ La multiplicación debe realizarse antes de la suma.
 
       = 49
 
-Ejemplo 4:
+Ejemplo 4 :
 
 Evalúa 
+
 
 7−2+3
 
 = 5 + 3 = 8  *Lo correcto es comenzar la operación de izquierda a derecha 
+```
 
 
 Otra operación importante es el operados **módulo (%)** .Cuando dividimos dos enteros, tenemos una ecuación que se ve como lo siguiente:
+
+```
 A/B= Q residuo R
 
 13/5 = 2 residuo 3
@@ -77,6 +81,8 @@ A/B= Q residuo R
 Decimos que 
 
 13 **mod** 5=residuo **3**
+
+```
 
 
 
