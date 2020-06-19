@@ -3,15 +3,15 @@
 
 Ahora veremos cómo hacer un formateo más complicado de una cadena.
 
-En este ejercicio estoy usando algo llamado **"función"** para convertir la variable del formateador en otras cadenas. Cuando me veas escribir **formatter.format (...)** le digo a python que haga lo siguiente:
+En este ejercicio estoy usando el  **llamado de una función"** para convertir la variable del formateador en otras cadenas. Cuando me veas escribir **formatter.format (...)** le digo a python que haga lo siguiente:
 
-1. Tomala cadena de formato definida en línea 1.
+1. Toma la cadena de formato definida en línea 1.
 
-2. Llama a su función de formato, que es similar a decirle que haga un comando de línea de comando llamado formato.
+2. Llama el formato de esa función, que es similar a decirle que haga un comando de línea de comando llamado formato.
 
-3. Pasar por los argumentos del formulario, que coinciden con los cuatro {} en la variable del formateador. Esto es como pasar argumentos al formato del comando de línea de comando.
+3. Pasar los 4 argumentos de `formatter`, que coinciden con los cuatro {} en la variable del formateador. Esto es como pasar argumentos al formato del comando de línea de comando.
 
-4. El resultado de llamar a la información del formato es una cadena de caracteres que tiene {} reemplazada por las cuatro variables. Esto es lo que la impresión ahora está imprimiendo.
+4. El resultado de llamar a la información del formato es una nueva cadena de caracteres que tiene las `{}` reemplazadas por las cuatro variables como 1,2,3,4 o TRUE,FALSE, TRUE,FALSE y esto es lo que `print` ahora está imprimiendo.
 
 
 #Se define la variable `formatter` con 4 argumentos
@@ -72,6 +72,12 @@ print(formatter.format(
      "What would you say"
      ))
 ```
+
+##NOTA: 
+
+**¿Por qué tengo que ingresar citas alrededor de "uno" pero no alrededor de Verdadero o Falso?**
+
+Python reconoce True y False como palabras clave que representan el concepto de `verdadero`y `falso`. Si se pone comillas alrededor de ellas, se convierten en cadenas y NO funcionarán.
 
 
 **LO QUE SE VE EN LA TERMINAL:**
