@@ -44,3 +44,18 @@ total = my_name + my_height + my_weight
 print(f"If I add {my_age}, {my_height} and {my_weight} I get total")
 
 ```
+
+**NOTA:** Puedes usar la función `round ()`  así: round (1.7333) para redondear números decimales **(Floating numbers)**
+
+**Lo que debes ver en la terminal:**
+
+```
+$ python3 ex5.py
+Let's talk about Zed A. Shaw.
+He's 74 inches tall.
+He's 180 pounds heavy.
+Actually that's not too heavy.
+He's got Blue eyes and Brown hair.
+His teeth are usually White depending on the coffee. If I add 35, 74, and 180 I get 289.
+```
+
