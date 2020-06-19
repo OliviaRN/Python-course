@@ -9,6 +9,10 @@ El siguiente paso es aprender sobre las **variables**.
 
 Los programadores usan estos nombres de variables para hacer que su código. Deben usar buenos nombres para las cosas o nos perderíamos cuando intentaramos leer el código nuevamente.
 
+Las variables deben comenzar con un caracter (Letras) NO con números!!!
+
+**INCORRECTO**  `1 = 'ZedShaw'`
+
 **=** `(es igual a)` y su propósito es dar datos  (números, cadenas, etc.) o nombres (cars, cars_driven, pasajeros, etc).
 
 Debe agregar espacio alrededor de operadores como este para que sea más fácil de leer.
