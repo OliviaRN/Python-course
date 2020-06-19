@@ -7,7 +7,7 @@ Imprime Mary had a little lamb
 print("Mary had a little lamb.")
 ```
 
-*Se hace un string y se utiliza la sintaxis .format() para este string.*
+*Se hace un string y se utiliza la sintaxis `.format()` para este string.*
 
 Imprimirá su lana es blanca como la nieve. {} las usamos para referirnos y llenar el espacion con snow. Aquí *snow* es un string NO una variable
 
@@ -34,9 +34,9 @@ end11 = "e"
 end12 = "r"
 ```
 
-### watch ```end = ' '``` at the end. try removing it to see what happens
+### watch `end = ' ' ` at the end. try removing it to see what happens
 
-## Con el end=' ' **NO** **se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt**
+## Con el `end=' '` **NO** **se hace un salto de línea y el sistema operativo coloca en la misma línea el prompt**
 
 ```
 print(end1 + end2 + end3 + end4 + end5 + end6, end=' ')
@@ -55,3 +55,14 @@ print(end1 + end2 + end3 + end4 + end5 + end6) ##Quitando el end = ' '  ### Este
 
 
 ###Errores. NO COPIAR BIEN. TUVE TYPOS , NO CIERRO COMILLAS y parentesis, 
+
+**LO QUE SE VE EN LA TERMINAL**
+
+```
+$ python3 ex7.py
+Mary had a little lamb.
+Its fleece was white as snow.
+And everywhere that Mary went.
+..........
+Cheese Burger
+```
